@@ -1,0 +1,14 @@
+.app {
+  margin: 20px;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.flex > div {
+  cursor: pointer;
+}
+
+.empty-block {
+  height: 100px;
+}
